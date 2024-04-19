@@ -291,15 +291,15 @@ movieConstructor('.app', {
 		],
 		menu: [
 			{
-				title: 'Описание',
+				title: 'Description',
 				link: '#',
 			},
 			{
-				title: 'Трейлер',
+				title: 'Trailer',
 				link: '#',
 			},
 			{
-				title: 'Фидбек',
+				title: 'Feedback',
 				link: '#',
 			}
 		]
@@ -307,28 +307,28 @@ movieConstructor('.app', {
 	main: {
 		genre: '2019, fantasy',
 		rating: "8",
-		description: `Ведьмак Геральт, мутант и убийца чудовищ, на своей верной лошади по кличке Плотва путешествует по Континенту. За тугой мешочек чеканных монет этот мужчина избавит вас от всякой настырной нечисти — хоть от чудищ болотных, оборотней и даже заколдованных принцесс`,
+		description: `The Witcher Geralt, mutant and monster-killer, travels the Continent on his trusty horse named Carnivore. For a tight pouch of minted coins, this man will rid you of all manner of insolent evil - even swamp monsters, werewolves, and even enchanted princesses`,
 		trailer: 'https://www.youtube.com/watch?v=P0oJqfLzZzQ',
 		slider: [
 			{
 				img: 'witcher/series/series-1.jpg',
-				title: 'Начало конца',
-				subtitle: 'Серия №1'
+				title: "The end's beginning",
+				subtitle: 'Episode №1'
 			},
 			{
 				img: 'witcher/series/series-2.jpg',
-				title: 'Четыре марки',
-				subtitle: 'Серия №2'
+				title: 'Four Marks',
+				subtitle: 'Episode №2'
 			},
 			{
 				img: 'witcher/series/series-3.jpg',
-				title: 'Предательская луна',
-				subtitle: 'Серия №3'
+				title: 'Betrayer Moon',
+				subtitle: 'Episode №3'
 			},
 			{
 				img: 'witcher/series/series-4.jpg',
-				title: 'Банкеты, ублюдки и похороны',
-				subtitle: 'Серия №4'
+				title: 'Of Banquets, Bastards and Burials',
+				subtitle: 'Episode №4'
 			}
 		]
 	}
